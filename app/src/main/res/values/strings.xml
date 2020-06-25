@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IAM</string>
+    <string name="tab_text_1">Current Challenge</string>
+    <string name="tab_text_2">History</string>
+</resources>
